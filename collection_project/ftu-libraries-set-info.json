@@ -348,7 +348,6 @@
     "description": "Free to Use and Reuse Archive",
     "disable_max_line_length": true,
     "expert_resources": null,
-    "manifest": "portals/free-to-use/manifest.yaml",
     "next": {
         "active": false,
         "content": "theme.html",
@@ -872,7 +871,7 @@
         "display_level": null,
         "distance": null,
         "downloadOption": null,
-        "duration": 0.1959242820739746,
+        "duration": 0.2831127643585205,
         "embed": [],
         "embed!": [],
         "excludeTerms": null,
@@ -933,7 +932,7 @@
         "suggested": null,
         "target": null,
         "template": "managed-content/layouts",
-        "timestamp": 1731076212.567106,
+        "timestamp": 1731018256.3696222,
         "tz_aware": null,
         "unionFacets": "",
         "webcast_permalink": null
@@ -16159,7 +16158,7 @@
                         {
                             "content": "theme.html",
                             "description": [
-                                "<p>This Free to Use set features family registers, family trees\nand photos, maps that document land ownership and more.</p>\n<p>The Library offers\nmany resources for researching your family history including <a href='https://chroniclingamerica.loc.gov/'>historical\nnewspapers</a>, <a href='/search/?fa=partof:county+landownership+maps'>land\nownership maps</a>, tips on <a href='https://blogs.loc.gov/loc/2018/07/my-job-at-the-library-researching-african-american-genealogy/'>researching African American family histories</a> and <a href='/research-centers/main/researcher-resources/research-guides/local-history-and-genealogy-guides/'>guides\nto the Library's genealogy collections</a>. Consult the <a href='/research-centers/main/researcher-resources/research-guides/local-history-and-genealogy-guides/'>Local\nHistory & Genealogy Reference Services</a> for help getting started.</p>\n<p>Browse <a href='/free-to-use/'>more content that is free to use and reuse</a>.</p>\n"
+                                "<p>This Free to Use set features family registers, family trees\nand photos, maps that document land ownership and more.</p>\n<p>The Library offers\nmany resources for researching your family history including <a href='https://chroniclingamerica.loc.gov/'>historical\nnewspapers</a>, <a href='/search/?fa=partof:county+landownership+maps'>land\nownership maps</a>, tips on <a href='http://blogs.loc.gov/loc/2018/07/my-job-at-the-library-researching-african-american-genealogy/'>researching African American family histories</a> and <a href='/research-centers/main/researcher-resources/research-guides/local-history-and-genealogy-guides/'>guides\nto the Library's genealogy collections</a>. Consult the <a href='/research-centers/main/researcher-resources/research-guides/local-history-and-genealogy-guides/'>Local\nHistory & Genealogy Reference Services</a> for help getting started.</p>\n<p>Browse <a href='/free-to-use/'>more content that is free to use and reuse</a>.</p>\n"
                             ],
                             "disable_navigation": true,
                             "image_url": [
@@ -19254,7 +19253,7 @@
                         {
                             "content": "theme.html",
                             "description": [
-                                "<p>These images of Irish-American experiences in the 1800s and 1900s include such famous people as F. Scott Fitzgerald, Henry Ford, Grace Kelly and the Kennedys.</p>\n<p>Find more <a href='https://blogs.loc.gov/loc/2018/03/irish-american-heritage-month-new-resources/'>Irish\nAmerican resources</a> at the Library.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
+                                "<p>These images of Irish-American experiences in the 1800s and 1900s include such famous people as F. Scott Fitzgerald, Henry Ford, Grace Kelly and the Kennedys.</p>\n<p>Find more <a href='http://blogs.loc.gov/loc/2018/03/irish-american-heritage-month-new-resources/'>Irish\nAmerican resources</a> at the Library.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
                             ],
                             "disable_navigation": true,
                             "image_url": [
@@ -19771,7 +19770,7 @@
                         {
                             "content": "theme.html",
                             "description": [
-                                "<p>The National Film Registry selects 25 films each year to showcase the range and diversity of American film heritage. These public domain selections are part of an online collection.</p>\n<p>Learn more about this <a href='https://blogs.loc.gov/loc/2017/12/free-to-use-and-reuse-selections-from-the-national-film-registry'>selection\nof films from the National Film Registry</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
+                                "<p>The National Film Registry selects 25 films each year to showcase the range and diversity of American film heritage. These public domain selections are part of an online collection.</p>\n<p>Learn more about this <a href='http://blogs.loc.gov/loc/2017/12/free-to-use-and-reuse-selections-from-the-national-film-registry'>selection\nof films from the National Film Registry</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
                             ],
                             "disable_navigation": true,
                             "image_url": [
@@ -19880,7 +19879,7 @@
                         {
                             "content": "theme.html",
                             "description": [
-                                "<p>Abraham Lincoln (1809-1865) continues to inspire people throughout the world through his words and life.</p>\n<p>Learn more about these <a href='https://blogs.loc.gov/loc/2017/11/free-to-use-and-reuse-the-story-of-abraham-lincoln/'>highlights\nfrom the Library's collections on Abraham Lincoln</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
+                                "<p>Abraham Lincoln (1809-1865) continues to inspire people throughout the world through his words and life.</p>\n<p>Learn more about these <a href='http://blogs.loc.gov/loc/2017/11/free-to-use-and-reuse-the-story-of-abraham-lincoln/'>highlights\nfrom the Library's collections on Abraham Lincoln</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
                             ],
                             "disable_navigation": true,
                             "image_url": [
@@ -20044,7 +20043,7 @@
                         {
                             "content": "theme.html",
                             "description": [
-                                "<p>Adolph Metzner’s drawings represent the western front campaigns in the American Civil War.</p>\n<p>Learn more about the <a href='https://blogs.loc.gov/loc/2017/09/free-to-use-and-reuse-adolph-metzner-civil-war-drawings/'>Adolph\nMetzner Civil War Drawings</a>.</p>\n<p>Browse <a href='/free-to-use/'>more content\nthat is free to use and reuse</a>.</p>\n"
+                                "<p>Adolph Metzner’s drawings represent the western front campaigns in the American Civil War.</p>\n<p>Learn more about the <a href='http://blogs.loc.gov/loc/2017/09/free-to-use-and-reuse-adolph-metzner-civil-war-drawings/'>Adolph\nMetzner Civil War Drawings</a>.</p>\n<p>Browse <a href='/free-to-use/'>more content\nthat is free to use and reuse</a>.</p>\n"
                             ],
                             "disable_navigation": true,
                             "image_url": [
@@ -20209,12 +20208,12 @@
                                     },
                                     {
                                         "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/18.jpg",
-                                        "link": "https://read.gov/books/pageturner/peter_wendy/#page/1/mode/1up",
+                                        "link": "http://read.gov/books/pageturner/peter_wendy/#page/1/mode/1up",
                                         "title": "Peter and Wendy"
                                     },
                                     {
                                         "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/19.jpg",
-                                        "link": "https://read.gov/books/pageturner/peter_rabbit/#page/1/mode/1up",
+                                        "link": "http://read.gov/books/pageturner/peter_rabbit/#page/1/mode/1up",
                                         "title": "Peter Rabbit"
                                     },
                                     {
@@ -20224,7 +20223,7 @@
                                     },
                                     {
                                         "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/21.jpg",
-                                        "link": "https://read.gov/books/pageturner/snow_white/#page/1/mode/1up",
+                                        "link": "http://read.gov/books/pageturner/snow_white/#page/1/mode/1up",
                                         "title": "Snow White"
                                     },
                                     {
@@ -20259,12 +20258,12 @@
                                     },
                                     {
                                         "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/6.jpg",
-                                        "link": "https://read.gov/books/pageturner/cinderella/#page/2/mode/1up",
+                                        "link": "http://read.gov/books/pageturner/cinderella/#page/2/mode/1up",
                                         "title": "Cinderella"
                                     },
                                     {
                                         "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/7.jpg",
-                                        "link": "https://read.gov/books/pageturner/huckfinn/#page/1/mode/1up",
+                                        "link": "http://read.gov/books/pageturner/huckfinn/#page/1/mode/1up",
                                         "title": "Adventures of Huckleberry Finn"
                                     },
                                     {
@@ -20279,17 +20278,17 @@
                                     },
                                     {
                                         "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/10a.jpg",
-                                        "link": "https://read.gov/books/pageturner/jack_beanstalk/#page/1/mode/1up",
+                                        "link": "http://read.gov/books/pageturner/jack_beanstalk/#page/1/mode/1up",
                                         "title": "Jack and the Beanstalk"
                                     },
                                     {
                                         "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/11a.jpg",
-                                        "link": "https://read.gov/books/pageturner/jungle_book/#page/1/mode/1up",
+                                        "link": "http://read.gov/books/pageturner/jungle_book/#page/1/mode/1up",
                                         "title": "The Jungle Book"
                                     },
                                     {
                                         "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/12.jpg",
-                                        "link": "https://read.gov/books/pageturner/anne_gables/#page/4/mode/1up",
+                                        "link": "http://read.gov/books/pageturner/anne_gables/#page/4/mode/1up",
                                         "title": "Anne of Green Gables"
                                     },
                                     {
@@ -20299,7 +20298,7 @@
                                     },
                                     {
                                         "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/14.jpg",
-                                        "link": "https://read.gov/books/pageturner/king_arthur/#page/1/mode/1up",
+                                        "link": "http://read.gov/books/pageturner/king_arthur/#page/1/mode/1up",
                                         "title": "In the Court of King Arthur"
                                     },
                                     {
@@ -20322,7 +20321,7 @@
                         {
                             "content": "theme.html",
                             "description": [
-                                "<p>This set introduces you to more than 11,000 color photographs of vernacular commercial structures, including restaurants and theaters, along U.S. streets and highways, 1969-2008.</p>\n<p>Learn more about the <a href='https://blogs.loc.gov/loc/2017/07/free-to-use-and-reuse-john-margolies-photographs-of-roadside-america/'>John Margolies Roadside America Photograph Archive</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
+                                "<p>This set introduces you to more than 11,000 color photographs of vernacular commercial structures, including restaurants and theaters, along U.S. streets and highways, 1969-2008.</p>\n<p>Learn more about the <a href='http://blogs.loc.gov/loc/2017/07/free-to-use-and-reuse-john-margolies-photographs-of-roadside-america/'>John Margolies Roadside America Photograph Archive</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
                             ],
                             "disable_navigation": true,
                             "image_url": [
@@ -20491,7 +20490,7 @@
                         {
                             "content": "theme.html",
                             "description": [
-                                "<p>This set introduces you to more than 25,000 portraits from the C.M. Bell Studio in Washington, D.C.</p>\n<p>Learn more about these <a href='https://blogs.loc.gov/loc/2017/06/free-to-use-and-reuse-19th-century-portrait-photos/'>19th-Century\nportrait photos from the C.M. Bell Studio Collection</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
+                                "<p>This set introduces you to more than 25,000 portraits from the C.M. Bell Studio in Washington, D.C.</p>\n<p>Learn more about these <a href='http://blogs.loc.gov/loc/2017/06/free-to-use-and-reuse-19th-century-portrait-photos/'>19th-Century\nportrait photos from the C.M. Bell Studio Collection</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
                             ],
                             "disable_navigation": true,
                             "image_url": [
@@ -20640,7 +20639,7 @@
                         {
                             "content": "theme.html",
                             "description": [
-                                "<p>This set introduces you to more than 4 million images that document historic buildings, remarkable gardens, and original designs in the Library’s collections.</p>\n<p>Learn more about these <a href='https://blogs.loc.gov/loc/2017/05/free-to-use-and-reuse-gorgeous-gardens-breakthrough-buildings-and-notable-designs/'>architecture\nand design selections</a>.</p>\n<p>Browse <a href='/free-to-use/'>more content\nthat is free to use and reuse</a>.</p>\n"
+                                "<p>This set introduces you to more than 4 million images that document historic buildings, remarkable gardens, and original designs in the Library’s collections.</p>\n<p>Learn more about these <a href='http://blogs.loc.gov/loc/2017/05/free-to-use-and-reuse-gorgeous-gardens-breakthrough-buildings-and-notable-designs/'>architecture\nand design selections</a>.</p>\n<p>Browse <a href='/free-to-use/'>more content\nthat is free to use and reuse</a>.</p>\n"
                             ],
                             "disable_navigation": true,
                             "image_url": [
@@ -20794,7 +20793,7 @@
                         {
                             "content": "theme.html",
                             "description": [
-                                "<p>Faraway states, natural wonders and beautiful beaches—these settings often come to mind when we start to plan vacations. They also form the backdrops for hundreds of travel posters in the Library’s collections.</p>\n<p>Learn more about these <a href='https://blogs.loc.gov/loc/2017/04/free-to-use-and-reuse-travel-posters/'>travel\nposters</a>.</p>\n<p>Browse <a href='/free-to-use/'>more content that is free\nto use and reuse</a>.</p>\n"
+                                "<p>Faraway states, natural wonders and beautiful beaches—these settings often come to mind when we start to plan vacations. They also form the backdrops for hundreds of travel posters in the Library’s collections.</p>\n<p>Learn more about these <a href='http://blogs.loc.gov/loc/2017/04/free-to-use-and-reuse-travel-posters/'>travel\nposters</a>.</p>\n<p>Browse <a href='/free-to-use/'>more content that is free\nto use and reuse</a>.</p>\n"
                             ],
                             "disable_navigation": true,
                             "image_url": [
@@ -21923,12 +21922,12 @@
                                     },
                                     {
                                         "image": "/static/portals/free-to-use/public-domain/thanksgiving/22-smokey-hill.jpg",
-                                        "link": "https://chroniclingamerica.loc.gov/lccn/sn84030186/1863-10-17/ed-1/seq-1/",
+                                        "link": "http://chroniclingamerica.loc.gov/lccn/sn84030186/1863-10-17/ed-1/seq-1/",
                                         "title": "The Smoky Hill and Republican union., October 17, 1863, Image 1 (A Proclamation by the President of the United States of America)"
                                     },
                                     {
                                         "image": "/static/portals/free-to-use/public-domain/thanksgiving/23-saint-paul-globe.jpg",
-                                        "link": "https://chroniclingamerica.loc.gov/lccn/sn90059523/1903-11-22/ed-1/seq-12/",
+                                        "link": "http://chroniclingamerica.loc.gov/lccn/sn90059523/1903-11-22/ed-1/seq-12/",
                                         "title": "The Saint Paul globe., November 22, 1903, Page 12, Image 12 (Thanksgiving an Inspiration Peculiar to the Nation)"
                                     }
                                 ],
@@ -37593,7 +37592,7 @@
                     "active": false,
                     "content": "theme.html",
                     "description": [
-                        "<p>This Free to Use set features family registers, family trees\nand photos, maps that document land ownership and more.</p>\n<p>The Library offers\nmany resources for researching your family history including <a href='https://chroniclingamerica.loc.gov/'>historical\nnewspapers</a>, <a href='/search/?fa=partof:county+landownership+maps'>land\nownership maps</a>, tips on <a href='https://blogs.loc.gov/loc/2018/07/my-job-at-the-library-researching-african-american-genealogy/'>researching African American family histories</a> and <a href='/research-centers/main/researcher-resources/research-guides/local-history-and-genealogy-guides/'>guides\nto the Library's genealogy collections</a>. Consult the <a href='/research-centers/main/researcher-resources/research-guides/local-history-and-genealogy-guides/'>Local\nHistory & Genealogy Reference Services</a> for help getting started.</p>\n<p>Browse <a href='/free-to-use/'>more content that is free to use and reuse</a>.</p>\n"
+                        "<p>This Free to Use set features family registers, family trees\nand photos, maps that document land ownership and more.</p>\n<p>The Library offers\nmany resources for researching your family history including <a href='https://chroniclingamerica.loc.gov/'>historical\nnewspapers</a>, <a href='/search/?fa=partof:county+landownership+maps'>land\nownership maps</a>, tips on <a href='http://blogs.loc.gov/loc/2018/07/my-job-at-the-library-researching-african-american-genealogy/'>researching African American family histories</a> and <a href='/research-centers/main/researcher-resources/research-guides/local-history-and-genealogy-guides/'>guides\nto the Library's genealogy collections</a>. Consult the <a href='/research-centers/main/researcher-resources/research-guides/local-history-and-genealogy-guides/'>Local\nHistory & Genealogy Reference Services</a> for help getting started.</p>\n<p>Browse <a href='/free-to-use/'>more content that is free to use and reuse</a>.</p>\n"
                     ],
                     "disable_navigation": true,
                     "image_url": [
@@ -40733,7 +40732,7 @@
                     "active": false,
                     "content": "theme.html",
                     "description": [
-                        "<p>These images of Irish-American experiences in the 1800s and 1900s include such famous people as F. Scott Fitzgerald, Henry Ford, Grace Kelly and the Kennedys.</p>\n<p>Find more <a href='https://blogs.loc.gov/loc/2018/03/irish-american-heritage-month-new-resources/'>Irish\nAmerican resources</a> at the Library.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
+                        "<p>These images of Irish-American experiences in the 1800s and 1900s include such famous people as F. Scott Fitzgerald, Henry Ford, Grace Kelly and the Kennedys.</p>\n<p>Find more <a href='http://blogs.loc.gov/loc/2018/03/irish-american-heritage-month-new-resources/'>Irish\nAmerican resources</a> at the Library.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
                     ],
                     "disable_navigation": true,
                     "image_url": [
@@ -41259,7 +41258,7 @@
                     "active": false,
                     "content": "theme.html",
                     "description": [
-                        "<p>The National Film Registry selects 25 films each year to showcase the range and diversity of American film heritage. These public domain selections are part of an online collection.</p>\n<p>Learn more about this <a href='https://blogs.loc.gov/loc/2017/12/free-to-use-and-reuse-selections-from-the-national-film-registry'>selection\nof films from the National Film Registry</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
+                        "<p>The National Film Registry selects 25 films each year to showcase the range and diversity of American film heritage. These public domain selections are part of an online collection.</p>\n<p>Learn more about this <a href='http://blogs.loc.gov/loc/2017/12/free-to-use-and-reuse-selections-from-the-national-film-registry'>selection\nof films from the National Film Registry</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
                     ],
                     "disable_navigation": true,
                     "image_url": [
@@ -41371,7 +41370,7 @@
                     "active": false,
                     "content": "theme.html",
                     "description": [
-                        "<p>Abraham Lincoln (1809-1865) continues to inspire people throughout the world through his words and life.</p>\n<p>Learn more about these <a href='https://blogs.loc.gov/loc/2017/11/free-to-use-and-reuse-the-story-of-abraham-lincoln/'>highlights\nfrom the Library's collections on Abraham Lincoln</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
+                        "<p>Abraham Lincoln (1809-1865) continues to inspire people throughout the world through his words and life.</p>\n<p>Learn more about these <a href='http://blogs.loc.gov/loc/2017/11/free-to-use-and-reuse-the-story-of-abraham-lincoln/'>highlights\nfrom the Library's collections on Abraham Lincoln</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
                     ],
                     "disable_navigation": true,
                     "image_url": [
@@ -41538,7 +41537,7 @@
                     "active": false,
                     "content": "theme.html",
                     "description": [
-                        "<p>Adolph Metzner’s drawings represent the western front campaigns in the American Civil War.</p>\n<p>Learn more about the <a href='https://blogs.loc.gov/loc/2017/09/free-to-use-and-reuse-adolph-metzner-civil-war-drawings/'>Adolph\nMetzner Civil War Drawings</a>.</p>\n<p>Browse <a href='/free-to-use/'>more content\nthat is free to use and reuse</a>.</p>\n"
+                        "<p>Adolph Metzner’s drawings represent the western front campaigns in the American Civil War.</p>\n<p>Learn more about the <a href='http://blogs.loc.gov/loc/2017/09/free-to-use-and-reuse-adolph-metzner-civil-war-drawings/'>Adolph\nMetzner Civil War Drawings</a>.</p>\n<p>Browse <a href='/free-to-use/'>more content\nthat is free to use and reuse</a>.</p>\n"
                     ],
                     "disable_navigation": true,
                     "image_url": [
@@ -41708,12 +41707,12 @@
                             },
                             {
                                 "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/18.jpg",
-                                "link": "https://read.gov/books/pageturner/peter_wendy/#page/1/mode/1up",
+                                "link": "http://read.gov/books/pageturner/peter_wendy/#page/1/mode/1up",
                                 "title": "Peter and Wendy"
                             },
                             {
                                 "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/19.jpg",
-                                "link": "https://read.gov/books/pageturner/peter_rabbit/#page/1/mode/1up",
+                                "link": "http://read.gov/books/pageturner/peter_rabbit/#page/1/mode/1up",
                                 "title": "Peter Rabbit"
                             },
                             {
@@ -41723,7 +41722,7 @@
                             },
                             {
                                 "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/21.jpg",
-                                "link": "https://read.gov/books/pageturner/snow_white/#page/1/mode/1up",
+                                "link": "http://read.gov/books/pageturner/snow_white/#page/1/mode/1up",
                                 "title": "Snow White"
                             },
                             {
@@ -41758,12 +41757,12 @@
                             },
                             {
                                 "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/6.jpg",
-                                "link": "https://read.gov/books/pageturner/cinderella/#page/2/mode/1up",
+                                "link": "http://read.gov/books/pageturner/cinderella/#page/2/mode/1up",
                                 "title": "Cinderella"
                             },
                             {
                                 "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/7.jpg",
-                                "link": "https://read.gov/books/pageturner/huckfinn/#page/1/mode/1up",
+                                "link": "http://read.gov/books/pageturner/huckfinn/#page/1/mode/1up",
                                 "title": "Adventures of Huckleberry Finn"
                             },
                             {
@@ -41778,17 +41777,17 @@
                             },
                             {
                                 "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/10a.jpg",
-                                "link": "https://read.gov/books/pageturner/jack_beanstalk/#page/1/mode/1up",
+                                "link": "http://read.gov/books/pageturner/jack_beanstalk/#page/1/mode/1up",
                                 "title": "Jack and the Beanstalk"
                             },
                             {
                                 "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/11a.jpg",
-                                "link": "https://read.gov/books/pageturner/jungle_book/#page/1/mode/1up",
+                                "link": "http://read.gov/books/pageturner/jungle_book/#page/1/mode/1up",
                                 "title": "The Jungle Book"
                             },
                             {
                                 "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/12.jpg",
-                                "link": "https://read.gov/books/pageturner/anne_gables/#page/4/mode/1up",
+                                "link": "http://read.gov/books/pageturner/anne_gables/#page/4/mode/1up",
                                 "title": "Anne of Green Gables"
                             },
                             {
@@ -41798,7 +41797,7 @@
                             },
                             {
                                 "image": "/static/portals/free-to-use/public-domain/classic-childrens-books/14.jpg",
-                                "link": "https://read.gov/books/pageturner/king_arthur/#page/1/mode/1up",
+                                "link": "http://read.gov/books/pageturner/king_arthur/#page/1/mode/1up",
                                 "title": "In the Court of King Arthur"
                             },
                             {
@@ -41822,7 +41821,7 @@
                     "active": false,
                     "content": "theme.html",
                     "description": [
-                        "<p>This set introduces you to more than 11,000 color photographs of vernacular commercial structures, including restaurants and theaters, along U.S. streets and highways, 1969-2008.</p>\n<p>Learn more about the <a href='https://blogs.loc.gov/loc/2017/07/free-to-use-and-reuse-john-margolies-photographs-of-roadside-america/'>John Margolies Roadside America Photograph Archive</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
+                        "<p>This set introduces you to more than 11,000 color photographs of vernacular commercial structures, including restaurants and theaters, along U.S. streets and highways, 1969-2008.</p>\n<p>Learn more about the <a href='http://blogs.loc.gov/loc/2017/07/free-to-use-and-reuse-john-margolies-photographs-of-roadside-america/'>John Margolies Roadside America Photograph Archive</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
                     ],
                     "disable_navigation": true,
                     "image_url": [
@@ -41994,7 +41993,7 @@
                     "active": false,
                     "content": "theme.html",
                     "description": [
-                        "<p>This set introduces you to more than 25,000 portraits from the C.M. Bell Studio in Washington, D.C.</p>\n<p>Learn more about these <a href='https://blogs.loc.gov/loc/2017/06/free-to-use-and-reuse-19th-century-portrait-photos/'>19th-Century\nportrait photos from the C.M. Bell Studio Collection</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
+                        "<p>This set introduces you to more than 25,000 portraits from the C.M. Bell Studio in Washington, D.C.</p>\n<p>Learn more about these <a href='http://blogs.loc.gov/loc/2017/06/free-to-use-and-reuse-19th-century-portrait-photos/'>19th-Century\nportrait photos from the C.M. Bell Studio Collection</a>.</p>\n<p>Browse <a href='/free-to-use/'>more\ncontent that is free to use and reuse</a>.</p>\n"
                     ],
                     "disable_navigation": true,
                     "image_url": [
@@ -42146,7 +42145,7 @@
                     "active": false,
                     "content": "theme.html",
                     "description": [
-                        "<p>This set introduces you to more than 4 million images that document historic buildings, remarkable gardens, and original designs in the Library’s collections.</p>\n<p>Learn more about these <a href='https://blogs.loc.gov/loc/2017/05/free-to-use-and-reuse-gorgeous-gardens-breakthrough-buildings-and-notable-designs/'>architecture\nand design selections</a>.</p>\n<p>Browse <a href='/free-to-use/'>more content\nthat is free to use and reuse</a>.</p>\n"
+                        "<p>This set introduces you to more than 4 million images that document historic buildings, remarkable gardens, and original designs in the Library’s collections.</p>\n<p>Learn more about these <a href='http://blogs.loc.gov/loc/2017/05/free-to-use-and-reuse-gorgeous-gardens-breakthrough-buildings-and-notable-designs/'>architecture\nand design selections</a>.</p>\n<p>Browse <a href='/free-to-use/'>more content\nthat is free to use and reuse</a>.</p>\n"
                     ],
                     "disable_navigation": true,
                     "image_url": [
@@ -42303,7 +42302,7 @@
                     "active": false,
                     "content": "theme.html",
                     "description": [
-                        "<p>Faraway states, natural wonders and beautiful beaches—these settings often come to mind when we start to plan vacations. They also form the backdrops for hundreds of travel posters in the Library’s collections.</p>\n<p>Learn more about these <a href='https://blogs.loc.gov/loc/2017/04/free-to-use-and-reuse-travel-posters/'>travel\nposters</a>.</p>\n<p>Browse <a href='/free-to-use/'>more content that is free\nto use and reuse</a>.</p>\n"
+                        "<p>Faraway states, natural wonders and beautiful beaches—these settings often come to mind when we start to plan vacations. They also form the backdrops for hundreds of travel posters in the Library’s collections.</p>\n<p>Learn more about these <a href='http://blogs.loc.gov/loc/2017/04/free-to-use-and-reuse-travel-posters/'>travel\nposters</a>.</p>\n<p>Browse <a href='/free-to-use/'>more content that is free\nto use and reuse</a>.</p>\n"
                     ],
                     "disable_navigation": true,
                     "image_url": [
@@ -43455,12 +43454,12 @@
                             },
                             {
                                 "image": "/static/portals/free-to-use/public-domain/thanksgiving/22-smokey-hill.jpg",
-                                "link": "https://chroniclingamerica.loc.gov/lccn/sn84030186/1863-10-17/ed-1/seq-1/",
+                                "link": "http://chroniclingamerica.loc.gov/lccn/sn84030186/1863-10-17/ed-1/seq-1/",
                                 "title": "The Smoky Hill and Republican union., October 17, 1863, Image 1 (A Proclamation by the President of the United States of America)"
                             },
                             {
                                 "image": "/static/portals/free-to-use/public-domain/thanksgiving/23-saint-paul-globe.jpg",
-                                "link": "https://chroniclingamerica.loc.gov/lccn/sn90059523/1903-11-22/ed-1/seq-12/",
+                                "link": "http://chroniclingamerica.loc.gov/lccn/sn90059523/1903-11-22/ed-1/seq-12/",
                                 "title": "The Saint Paul globe., November 22, 1903, Page 12, Image 12 (Thanksgiving an Inspiration Peculiar to the Nation)"
                             }
                         ],
@@ -44222,7 +44221,7 @@
         "url": "https://www.loc.gov/free-to-use/hats/"
     },
     "site_type": "free-to-use",
-    "timestamp": 1731076212763,
+    "timestamp": 1731018256653,
     "title": "Library of Congress Free to Use and Reuse",
     "type": "orientation-portal"
 }
